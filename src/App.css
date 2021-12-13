@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  margin: 30px;
+  text-align: center;
+}
+
+.App-header {
+  margin: 30px;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
